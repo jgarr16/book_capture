@@ -1,0 +1,45 @@
+Challenges Outsourcing Companies Face
+ Open table as spreadsheet 3 6
+Physical Control (Example)
+Description
+Shortfall of Control during Outsourcing
+Locks with hard keys
+Individuals who require access have a hard key
+Most hard keys are easily copied at home improvement stores. It is very difficult to ensure that keys are not copied or to even keep an inventory of all keys with changing personnel. The risk of losing a key is very high with a large number of keys in circulation. Also the replacement cost is directly tied to the number of people having access.
+Cyberlocks with PIN
+Individuals have a PIN that they punch into a cyber lock to enter through a door.
+In case of staff leaving, knowing the PIN, the lock needs to be reprogrammed and the PIN distributed to everyone that requires it. It is very easy for a person with access to provide access to a non authorized person, intentionally or unintentionally, by just telling them the PIN.
+Security guard
+Checks for ID to verify based on an access list of someone is allowed to enter or not.
+With human beings there is always the risk of forming habits. A security guard could allow access to a former employee of the outsourcing company, since he thinks it is business as usual. Another source for human error, which actually happens quite often, is an outdated access list which still lists the former employee.
+Access badge
+Access is provided based on programmed access rights that an electronic badge-reader checks.
+The traditional access model that an organization has established might not scale up to outsourcing personnel taking on traditional functions that employees used to have.
+Closed-circuit TV
+Monitoring and recording of activities in sensitive areas.
+During the transition phase large numbers of an outsourcing company's personnel might be seen in sensitive areas, preparing IT equipment for shipment to the outsourcing company's data center. To discover any malicious activity might be difficult during that time.
+
+Figure 4.2: Physical security table.
+
+ Open table as spreadsheet 3 6
+Logical Control (Example)
+Description
+Shortfall of Control during Outsourcing
+Shared passwords
+Shared passwords (e.g., wireless access points)
+Particularly with wireless solutions it is difficult to prevent unauthorized access to the network since physical security controls (e.g., walls and doors with locks) have no meaning to radiowaves. A shared password could allow a disgruntled employee to access the corporate wireless from a nearby location.
+Hardware Tokens
+Hardware Tokens need to be delivered to foreign countries.
+It can be a challenge to get Hardware Tokens shipped to India. At least it will take time or cost a lot of money or both.
+Virtual private network
+VPN solution was scaled to accommodate normal needs of the organization.
+The outsourcing company's personnel might use the VPN to access client systems, creating a shortage of licenses or simply a resource problem with the VPN solution in place.
+Change in access behavior
+Firewall/router or geo-firewall might prevent access from certain locations.
+Depending on your security controls in place, an authentication from India might not be allowed due to the geographical region the log-in is performed from.
+One-time passwords via mobile
+A one-time PIN password is provided through text messaging.
+Certain countries monitor text messaging traffic and could intercept the PIN/ password. Also the solution in place might not support mobile phones in foreign countries.
+
+
+

@@ -1,0 +1,613 @@
+Outsourcing Preparation
+The following section provides you with comments and questions which should help you get the thought process going on as to what needs to be addressed before the outsourcing operation can start. The categories used are aligned with ISO 27002. The categories were chosen to allow reuse of information that some organizations might already have gathered from their ISO 27002 implementation exercise. There are other ways to describe your organization's security program. T he chosen grouping is only intended to be a framework to structure the various comments and questions your organization should think about when preparing for an outsourcing situation, whether it is BPO or Technology Outsourcing (TO).
+Information Security Policy
+		Description: Every organization should have an information security policy that is approved by the management, published, and communicated as appropriate to all employees that exist. The policy should be clear about management's commitment, and it should state the organizational approach to managing information security. 
+		Comments/Questions: The following questions should help to determine if changes need to be made to address the new out-sourcing situation:
+	▪	Do the policies scale to a third party executing them? If not, then a rewrite is necessary.
+	▪	Have they been updated recently or on a regular basis? If they are outdated or not current, they need to be updated.
+	▪	Are the policies technology agnostic? If not, you might have to rewrite not only standards but also your security policies. It is best to keep technology to the technical standard level.
+Organization of Information Security
+		Description: Management should demonstrate active support for security measures within the organization. This can be done via clear direction, demonstrated commitment, explicit assignment, and acknowledgment of information security responsibilities. Information security activities should be coordinated by representatives from diverse parts of the organization, with pertinent roles and responsibilities. Those responsibilities for the protection of individual assets and for carrying out specific security processes should be clearly identified and defined. A management authorization process is defined and implemented for any new information process-ing facility within the organization. The organization has a Confidentiality or Nondisclosure Agreement (NDA) for protection of information clearly defined and regularly reviewed. It should address the requirements to protect the confidential information using legal enforceable terms. Procedures should describe when and by whom relevant authorities such as law enforcement, fire department, etc. should be contacted, and how the incident should be reported. An organization should maintain appropriate contacts with special interest groups or other specialist security forums and professional associations. The organization's approach to managing information security and its implementation is reviewed independently at planned intervals or when major changes to security implementation occur. 
+		Questions: Having read through the above description of what is expected in this category, how would the outsourcing initiative impact the various areas?
+	▪	How does a third party operating on behalf of your organization impact the organization of information security?
+	▪	Do you have problem areas with the organization of information security? How would those problems complicate the transition to the outsourcing company?
+External Parties' Security
+		Description: Risks to the organization's information and information processing facility, from a process involving external party access, is identified and appropriate control measures are implemented before granting access. All identified security requirements are fulfilled before granting customer access to the organization's information or assets. Any agreement with a third party, involving accessing, processing, communicating, or managing the organization's information or information processing facility, or introducing products or services to an information processing facility, needs to comply with all appropriate security requirements.
+		Comments: Particularly with large outsourcing engagements the areas above can be impacted by the outsourcing company taking on responsibilities that could impact the neutrality of the processes.
+		Questions:
+	▪	Is the independence of all areas of this category still ensured when the outsourcing company has taken on some of the responsibilities?
+	▪	How does the involvement of an outsourcing company impact third-party relationships (e.g., other partners or customers)? 
+Information Classification Security
+		Description: Information is classified in terms of its value, legal requirements, sensitivity, and criticality to the organization. Procedures are defined for information labeling and handling, in accordance with the classification scheme adopted by the organization.
+		Comments: This is another critical area in an outsourcing situation. The outsourcing company will not bring the tribal knowledge that your organization used to determine how to secure certain information (e.g., without proper label).
+		Questions:
+	▪	Do you have an information classification scheme in place? Is it current?
+	▪	Are information assets labeled according to the classification?
+Prior to Employment Security
+		Description: Define and document security roles and responsibilities for contractors and third-party users in accordance with the organization's information security policy. Define and communicate roles and responsibilities to job candidates during the pre-employment process. Conduct background verification checks for all candidates for employment, con-tractors, and third-party users in accordance with the relevant regulations. The checks should include character reference, confirmation of claimed academic and professional qualifications, and independent identity checks. Employees, contractors, and third-party users are required to sign confidentiality or nondisclosure agreements as a part of their initial terms and conditions of the employment contract. The agreements should cover the information security responsibility of the organization and that of the employees, third-party users, and contractors.
+		Comments: This is another category that is particularly interesting because this is one of the first (security) processes that will need to be executed to bring on the outsourcing company. 
+		Questions:
+	▪	Do the processes in place scale up to ensure that the out-sourcing company brings only screened skilled personnel to the contract?
+During Employment Security
+		Description: Management requires employees, contractors, and third-party users to apply security in accordance with the established policies and procedures of the organization. Employees of the organization, and where relevant, contractors and third-party users, receive appropriate security aware-ness training and regular updates in organizational policies and procedures as it pertains to their job function. There is a formal disciplinary process for the employees who have committed a security breach.
+		Comments: The outsourcing company's personnel should be included in the scope of the processes and standards in this category. Besides the outsourcing company bringing on staff to help transition the operation, your organization also has to deal with layoffs of sometimes longtime employees.
+		Questions:
+	▪	Does management understand the impact of mass layoffs?
+	▪	Do they support additional security measures?
+	▪	Is the security awareness training suitable for third par-ties (outsourcing personnel), and is it still usable after the outsourcing transition has been completed?
+	▪	In the light of being laid off, does the disciplinary process still work, or are employees without any discipline?
+Termination or Change-of-Employment Security
+		Description: The responsibilities for performing employment termination, or change of employment, are clearly defined and assigned. There is a process in place that ensures all employees, contractors, and third-party users surrender all of the organization's assets in their possession upon termination of their employment, contract, or agreement. Access rights of all employees, contractors, and third-party users to information and information processing facilities will be removed upon termination of their employment, contract, or agreement, or will be adjusted upon change. 
+		Comments: Depending on what is in the scope of the outsourcing activities, processes like termination or transfer might need to be changed to address the new situation.
+		Questions:
+	▪	Is the process of returning company assets impacted by the outsourcing activities?
+	▪	Can access rights still be removed when the organization is going through the transition to the outsourcing company?
+Secure Areas Security
+		Description: Physical border security has been implemented at the facility level to protect the information processing ser-vices. Entry controls are in place to allow only authorized personnel into various areas within the organization. Rooms that have the information processing service are locked or have lockable cabinets or safes. Physical protection against damage from fire, flood, earthquake, explosion, civil unrest, and other forms of natural or manmade disaster should be designed and applied. Address any potential threat from neighboring premises. Physical protection and guidelines for working in secure areas are designed and implemented. Delivery, loading, and other areas where unauthorized persons may enter the premises are controlled, and information processing facilities are isolated to avoid unauthorized access.
+		Comments: Outsourcing companies like to show off their business continuity and disaster recovery capabilities in their offshore locations. However, in July 2012 northern India had over 600 million people without electricity. The data center at the off-shore location might be still up but the personnel maintaining it might not be able to come to work. This is just one example of how a situation with the outsourced operation can impact the operation of your "new" organization. Another aspect to keep in mind is that when the transition activities start, with many outsourcing personnel running around in your facilities, you will need to have implemented measures to ensure that your physical access security level stays intact. This could be as easy as making a decision to create a new special badge type for outsourcing personnel that has access excluded to areas that are off-limits for outsourcing personnel. Loading docks and other areas that provide access to the premises should have increased security, e.g., additional CCTV monitoring, to ensure that not everything gets transitioned. 
+		Questions:
+	▪	In the case of the outsourcing scope including IT collo-cation or consolidation, do your physical security policies and standards map to the new facilities, do the physical standards need to be adjusted, or are the physical security standards of the outsourcing company sufficient?
+	▪	What access rights do outsourcing company personnel require? Do they require quasi-employee access rights?
+	▪	Are special measures required to ensure that offices that used to be in physically secure areas are still secure when accessed by the outsourcing company's staff?
+	▪	What are new external and environmental impacts at the location hosting the outsourced operation?
+Equipment Security
+		Description: Equipment is protected to reduce the risks from environmental threats and hazards and opportunities for unauthorized access. Equipment is protected from power failures and other disruptions caused by failures in supporting utilities. Multiple feed, an uninterruptible power supply, or a backup generator, are being utilized. Power and telecommunications cable carrying data or supporting information ser-vices are protected from interception or damage. Additional security controls are in place for sensitive or critical information. Equipment is correctly maintained to ensure its continued availability and integrity. Equipment is maintained, as per the supplier's recommended service intervals and specifications. Maintenance is carried out only by authorized personnel. Logs are maintained with all suspected or actual faults and all preventive and corrective measures. Appropriate controls are implemented while sending equipment off premises. Equipment is covered by insurance, and the insurance requirements are satisfied. Risks were assessed with regard to any equipment usage outside an organization's premises, and mitigation controls were implemented. Usage of an information processing facility outside the organization has been authorized by the management. All equipment containing storage media is checked to ensure that any sensitive information or licensed software is physically destroyed or securely overwritten prior to disposal or reuse. Controls are in place so that equipment, information, and software are not taken off-site without prior authorization. 
+		Comments: Keep in mind that you have to translate certain security requirements in SLAs. To do this you need to have your metrics right—asking for an unrealistic SLA does not help anyone. Not every server in your organization requires mirroring of data, which is quite expensive and is chosen far too often due to a lack of understanding of how a particular system supports the business (do you have a current business impact analysis [BIA]?)—an expensive default that can easily negate the cost savings of most IT outsourcing deals. Cable security that might have been a more trivial topic for you when operating out of one or potentially a couple of locations now can become an international exercise. In 2008 a number of undersea cable (also referred to as submarine cabling) outages[*] seriously impacted communication in many of the core outsourcing countries, e.g., India. There is not much you can do about the security of such cabling yourself. However, you can ask to see what the contingency plans are if key undersea cables have an outage. If your equipment is old or is very specific, you might be limited in what direction to go with your equipment maintenance. Most outsourcing organizations struggle to provide support for nonstandard equipment—standard being the Windows and UNICES supporting server hardware. If you are using a Tandem or a proprietary mainframe, you might be out of luck with the mainstream outsourcing companies. Some outsourcing companies have specialized in supporting these types of systems. Moving certain platforms to a public cloud environment can be another challenge. The platforms offered by most of the cloud providers do not support plat-forms beyond i386 type architectures; Windows and Linux are the predominant platforms offered by public cloud providers. This might change in the future, but the standardization on the Intel platform has been a general trend in the industry that even Apple and to a degree Sun (now Oracle) have followed. As a result the support personnel skill sets are usually limited to the Intel technology (e.g., Oracle being the exception, offering SPARC as a platform) 
+		Questions: 
+	▪	How do your equipment security strategy and concepts translate to what the outsourcing company offers?
+	▪	Are business objectives met in the sense of recovery time objective (RTO) and recovery point objective (RPO) times?
+	▪	When was the last time you reviewed your existing sup-port equipment to ensure that you can continue through, for example, a power outage?
+Maintenance of equipment is another aspect to consider.
+	▪	Is your equipment relocated or is it maintained in your data center?
+	▪	Do you lease equipment or have you decided to go with a service such as Infrastructure as a Service (IaaS) or Software as a Service (SaaS)?
+Other things to consider in this category are
+	▪	What happens if there is damage done to your equipment by the outsourcing staff?
+	▪	Does the company provide appropriate insurance coverage to pay for the damage? 
+Operational Procedures and Responsibility Security
+		Description: Operating procedures are documented, maintained, and available to all users who need it. Procedures are treated as formal documents, and therefore any changes made need management authorization. Changes to information processing facilities and systems are controlled. Duties and areas of responsibility are separated in order to reduce opportunities for unauthorized modification or misuse of information or services. Development and testing facilities are isolated from operational facilities. For example, development and production software should be run on different computers. Necessary development and production networks should be kept sepa-rate from each other.
+		Comments: It cannot be overemphasized that good current documentation is one of the key factors to successful and secure transition of operations to an outsourcing company. The more room for interpretation there is, the more you run the risk that the outsourcing company creates security problems (e.g., segregation of duties) to achieve cost savings.
+		Questions:
+	▪	Are the operational procedures documented so that a third party can understand them and is able to execute them?
+	▪	Is your change management process working, documented, and does it scale to support outsourcing personnel?
+	▪	One of the common areas of concern is the segregation of duties with services that have been outsourced; how do you want to control this?
+	▪	Do you already have areas in the existing organization where you have concerns regarding segregation of duties?
+Third-Party Service Delivery Management Security
+		Description: Measures are taken to ensure that the security controls, service definitions, and delivery levels included in the third-party service delivery agreement are implemented, operated, and maintained by a third party. Services, reports, and records provided by third party are regularly monitored and reviewed. Auditors conduct audits on a regular basis on the above third party's services, reports, and records. Changes to provision of services, including maintaining and improving existing information security policies, procedures, and controls, are managed. This management takes into account criticality of business systems, processes involved, and reassessment of risks. 
+		Comments: If this is an area you have had concerns with in the past, now is the time to fix this. Make sure that all applicable security controls are included in the contract. Retrofitting security controls into an existing contract is usually quite challenging.
+		Questions:
+	▪	How do you monitor controls that third parties are required to implement?
+	▪	Does this approach still work for the new organization where outsourcing personnel is potentially in key positions?
+	▪	Is the new organization putting outsourcing personnel in charge of monitoring security controls that are executed by the outsourcing company?
+	▪	How do you plan to manage changes to the contract with the outsourcing company?
+	▪	Are you relying on outsourcing personnel to help manage the contract changes?
+System Planning and Acceptance Security
+		Description: Capacity demands are monitored and projections of future capacity requirements are made to ensure that adequate processing power and storage are available. System acceptance criteria are established for new information systems, upgrades, and new versions. Suitable tests are carried out prior to acceptance.
+		Comments: If your organization is weak in this area, you will have issues in successfully outsourcing all or parts of your operation.
+		Questions:
+	▪	Does your organization have a robust and scalable capacity/performance monitoring approach in place? 
+	▪	Can this approach be used to monitor systems outside the company-owned data center?
+	▪	If the outsourcing company does its own monitoring, can it be fed into your company's monitoring system?
+	▪	How is this performance data used during planning of new systems?
+	▪	Can the outsourcing company offer something that is comparable or even better?
+	▪	What is the new process for system acceptance, once the outsourcing company has taken on the task of deploying systems?
+Protection against Malicious and Mobile Code Security
+		Description: Detection, prevention, and recovery controls to protect against malicious code and appropriate user awareness procedures were developed and implemented. Only authorized mobile code is used. The configuration ensures that authorized mobile code operates according to security policy. Execution of unauthorized mobile code is prevented.
+		Comments: One would think that in this millennium malicious code protection is a standard with all organizations. Still there are organizations without any malicious and/or mobile code protection in place.
+		Questions:
+	▪	What are your controls against malicious code?
+	▪	Do you have an enterprise-level solution?
+	▪	Are there any issues with the existing solution that might be magnified or potentially even prevent a third party (i.e., outsourcing personnel) from using the existing solution outside the corporate network?
+	▪	Is the plan to have the outsourcing personnel use their own systems on the corporate network? A risk assessment of the configuration should be conducted.
+	▪	How would the use of outsourcing systems on the corporate network impact countermeasures taken to control a computer worm outbreak?
+	▪	Is the outsourcing company using mobile code? 
+	▪	In the case your organization has adopted a "no mobile code policy," is the use of mobile code by the outsourcing company acceptable? Can it be "white listed"?
+	▪	What additional security needs to be put in place to address mobile code used by the outsourcing company?
+Information Backup Security
+		Description: Backups of information and software are taken and tested regularly in accordance with the agreed backup policy. All essential information and software can be recovered following a disaster or media failure.
+		Comments: No matter whether you perform backups in-house or if you have a third party taking care of your backups, this is another critical area. Once you have to deal with a disaster, it is too late to fix an issue with backups or recovery.
+		Questions:
+	▪	Are your backups tested and recoverable?
+	▪	When was the last time you tested the restoration from a backup?
+	▪	Are you using a backup system that uses an outdated plat-form or proprietary platform?
+	▪	What is the plan when the outsourcing company takes over?
+	▪	Are the old backups still recoverable after the outsourcing company takes over?
+	▪	Do backups need to be redone?
+	▪	Are you in conflict with applicable regulations or laws in case you choose to not transition old backups to the backup system that the outsourcing company uses?
+Network Security Management Security
+		Description: The network is adequately managed and controlled to protect from threats and to maintain security for the systems and applications using the network, including the information in transit. Controls were implemented to ensure the security of the information in networks and the protection of the connected services from threats, such as unauthorized access. Security features, service levels, and management requirements of all network services are identified and included in any net-work services agreement. The ability of the network service provider to manage agreed services in a secure way is determined and regularly monitored, and the right to audit is agreed upon. 
+		Comments: Network security is one of the traditional security disciplines that have reached a high maturity level in many regards. The more widespread adoption of IPv6 has been a game changer for some organizations and potentially created a situation where expertise is missing in house, resulting in security vulnerabilities.
+		Questions:
+	▪	What version of IP does your network use?
+	▪	Is your network adequately monitored, or do you feel you have gaps?
+	▪	What happens if you allow the outsourcing company to put their equipment, e.g., laptops, on your network?
+	▪	Does the antivirus protection of those devices work with yours?
+	▪	Can your network devices be managed through industry-standard means (e.g., SNMP), or do you have a proprietary solution?
+	▪	Can the devices be managed securely; e.g., SNMPv3 is implemented with authentication?
+	▪	Are you collecting metrics that can be used to measure against any agreed on SLAs?
+Media-Handling Security
+		Description: Procedures exist for management of removable media, such as tapes, disks, cassettes, memory cards, and reports. All procedures and authorization levels are clearly defined and documented. Media that are no longer required are disposed of securely and safely, as per formal procedures. A procedure exists for handling information storage. These procedures address issues such as information protection from unauthorized disclosure or misuse. System documentation is protected against unauthorized access. 
+		Comments: Particularly media handling is an area that is under-valued in importance in today's world that is living in the tera-and exabyte storage sizes. A loss of a small USB drive can result in a major lawsuit. Modern USB drives can easily fit the names and Social Security numbers of every US citizen.
+		Questions:
+	▪	Do you have formalized processes in place that state how removable media are handled?
+	▪	What type of removable media do you have?
+	▪	Are you hanging onto outdated technologies (e.g., QIC-80 tapes) because a critical system relies on it?
+	▪	Have you defined an exit strategy to replace this outdated technology?
+	▪	It will be costly to have the outsourcing company take this over and maintain it. The not-so-costly alternative is to have the outsourcing company transition the backup to a modern solution; however, the cheapest solution is to do it yourself before transitioning it over.
+	▪	Have you thought about how media can be securely destroyed?
+	▪	What is the current process, and what are the requirements? Are they still valid, or are there new requirements that would require a new process?
+	▪	What are the processes for how information is handled? Usually those processes are tightly coupled with physical security and the security zoning of the facility.
+	▪	Does the current approach map to what the outsourcing company offers?
+	▪	Who is going to ensure that only appropriate individuals with valid access and need can make changes to system documentation, once the outsourcing company has taken over?
+	▪	Is the system documentation current?
+	▪	What happens if key people are let go and the documentation needs to be updated?
+Exchange of Information Security
+		Description: A formal exchange policy, procedure, and control in place to ensure the protection of information; procedure and control cover using electronic communication facilities for information exchange. Agreements are established concerning exchange of information and software between the organization and external parties. Security content of the agreement reflects the sensitivity of the business information involved. Media containing information are protected against unauthorized access, misuse, or corruption during transportation beyond the organization's physical boundary. Information involved in electronic messaging is well protected. Policies and procedures are developed and enforced to protect information associated with the interconnection of business information systems. 
+		Comments: Before you are sure that this area is properly addressed, you should not even talk with an outsourcing company. If you cannot ensure that the information you share is secure, i.e., that it is only accessible by the people you designate to have access to it, then you have a serious problem. Security starts with the legal framework, policies, processes, and standards that define what information can be shared and how it can be shared, down to the technical safeguards that need to be put in place to ensure that the confidentiality, integrity, and availability of your information stays intact.
+		Questions:
+	▪	Do you have proper exchange agreements in place that allow sharing of the necessary information with the out-sourcing company? A nondisclosure agreement is one of the agreements; another one is an agreement on how data is protected or destroyed.
+	▪	If media need to be shared, how is this accomplished? This has already been discussed in Chapter 3.
+	▪	Can unauthorized access be prevented during transit?
+	▪	How is electronic communication secured between your company and the outsourcing company?
+	▪	Is e-mail the only form of communication, or is instant messaging (IM) being used, such as developers around the globe working collaboratively together using IM?
+	▪	Are your policies and standards for interconnecting busi-ness systems scalable enough to address the outsourcing situation where a system might not be in the boundaries of the company IT network? 
+Electronic Commerce Services Security
+		Description: The information involved in electronic commerce passing over the public network is protected from fraudulent activity, contract dispute, and any unauthorized access or modification. Security controls such as application of cryptographic controls are taken into consideration. Electronic commerce arrangements between trading partners require a documented agreement, which commits both parties to the agreed terms of trading, including details of security issues. Information involved in online transactions is protected to prevent incomplete transmission, misrouting, unauthorized message alteration, unauthorized disclosure, unauthorized message duplication, or replay. The integrity of the publicly available information is protected against any unauthorized modification.
+		Comments: Most organizations nowadays have electronic commerce as part of their business strategy. Ensuring the security of the data, the confidentiality, the integrity, the availability, and the nonrepudiation are the foundation of electronic commerce. To ensure those attributes stay in place after the outsourcing company has taken on the operation of the electronic commerce systems can be a critical element of success of the initiative or even become a question of survival of an organization if the electronic commerce is the main revenue stream. Online transactions nowadays can be checked for geographic locations. Even with the same IP (which is not very likely if you have the outsourcing organization physically move your IT equipment to their data center), you can experience problems with online transactions of trade partners that have those additional safeguards in place.
+		Questions: 
+	▪	Have you already collected information about the security of your e-commerce systems (e.g., when do your SSL certificates expire)? 
+	▪	How do you ensure that your processes (particularly the ones relying on physical safeguards) are still functional after the transition?
+	▪	Do you have appropriate processes and safeguards in place that allow you to protect publicly visible information (e.g., your corporate website)?
+	▪	How is it ensured that this information can be maintained after transitioning to the outsourcing company (e.g., domain registrations)?
+Monitoring Security
+		Description: Audit logs recording user activities, exceptions, and information security events are produced and kept for an agreed period of time to assist in future investigations and access control monitoring. Appropriate privacy protection measures are considered in audit log maintenance. Procedures are developed and enforced for monitoring system use for the information processing facility. Results of the monitoring activity are reviewed regularly. Log audits and logging mechanisms are well protected against tampering and unauthorized access. System administrator and system operator activities are logged. Logged activities are reviewed on a regular basis. Faults are logged, analyzed, and appropriate action taken. The levels of logging required for individual systems are determined by a risk assessment, taking performance degradation into account. System clocks of all information processing systems within the organization or security domain are synchronized with an agreed accurate time source.
+		Comments: Since WorldCom's collapse, the number of audits and the details captured in those audits have increased significantly. Most organizations that have been required to be in compliance with one or sometimes multiple regulations have spent quite some time and money on compliance efforts. A company's work to get into compliance can easily be negated if not appropriately reflected in an outsourcing contract, implementing strict controls to ensure the compliance of the outsourcing operation. Any compliance-related issues with the outsourced operation need to be addressed as soon as possible and clearly documented with what the issue is and how it needs to be addressed. Most outsourcing companies operate with paper thin margins, and compliance activities are a primary candidate for cost savings… at least in the short run, till audits show deficiencies and the cost savings (for the outsourcing company) are negated by having to invest in fixing the deficiencies. Do your auditors understand that outsourcing companies function differently from regular organizations, at least when it comes to engagements with a client? Many do, but some smaller auditing companies are challenged with such situations. Most outsourcing companies have their security architecture tailored to support internal standards and policies; they usually do not scale up to support engagements with various clients. This is also true for the data classification. In most cases a client will ask to have their own policies and standards implemented with systems that are now maintained by the outsourcing company's personnel. So where is the problem? The problem is that due to the out-sourcing company's executing, processes need to be adopted and standards on the outsourcing company side need to be established to support the client's policies. For example, this can start with physical security since the outsourcing personnel and the outsourced servers are now in a building that is compliant with the outsourcing companies' physical security requirements, not necessarily the client ones. Since those buildings are shared between engagements, this might result in an interesting situation in that one client requires a specific set of physical controls and another client requires a different set. In the worst case, the two sets contradict each other. Most outsourcing companies are real estate poor, meaning real estate is bought when a client deal goes through. Another example is how personnel are brought on or rolled off an engagement. These processes and standards need to be developed for each outsourcing engagement. Unfortunately, this requirement is not well understood by either the outsourcing company or auditors coming from the client side. The auditors follow their template and ask for policies, processes, and standards at an outsourcing company's level. The outsourcing company's staff then provides the outsourcing company's internal policies, processes, and standards to the auditors. Depending on how experienced the auditor is, they might raise the flag and ask for engagement-specific documents; however, most of them are going to check the box that a policy exists and is formally documented after just spending 30 seconds to review the documents. This is not necessarily an indicator of sloppy work but of the complexity that modern organizations are facing in today's world. There is not only one outsourcing company, there are many that large organizations have to deal with. However, it is a sign of not understanding the typical outsourcing setup at an outsourcing company's level. 
+		Questions:
+	▪	Are there known compliance issues?
+	▪	Is system use monitored?
+	▪	How is log information protected?
+	▪	Can log information be protected even after the IT operation is outsourced?
+	▪	How are administrator and operator logs handled today?
+	▪	What needs to be done to ensure that the actions of out-sourcing personnel working as administrators or operators are monitored and the audit logs cannot be manipulated by the outsourcing personnel?
+	▪	Are system or application faults logged?
+	▪	What is the process to analyze for root causes of faults?
+	▪	Does the fault analysis process still work after the out-sourcing is put in place?
+	▪	Are clocks of IT devices synchronized? If you are in just one location, you might have the clocks set to local time. When going with an internationally operating outsourcing company, you might be up for a sweet surprise when reviewing logs for the first time. Try using Coordinated Universal Time (UTC) instead of the local time. 
+Business Requirement for Access Control Security
+		Description: An access control policy is developed and reviewed based on the business and security requirements. Logical and physical access controls are taken into consideration in the policy. The users and service providers are given a clear statement of the business requirement to be met by access controls.
+		Comments: Access control design is driven by the overarching policy and the standards that are supporting the policy. With an outsourcing situation, those standards very likely require adjustments, potentially even the policy itself requires a review and update.
+		Questions:
+	▪	Are your access control policy, processes, and standards up to date?
+	▪	Do you review the access policy, processes, and standards on at least an annual basis?
+	▪	What is the plan to adjust the access controls when the IT operation is outsourced?
+	▪	Are logical and physical aspects covered?
+	▪	How are logical and physical controls impacted by the planned outsourcing engagement?
+	▪	Are the business requirements addressed in the current solution?
+	▪	If the business needs are not met by the current solution, what can be done in conjunction with the outsourcing company to get better alignment? A solution that might have been too expensive might now be in reach through the outsourcing company's volume discounts.
+User Access Management Security
+		Description: There is a formal user registration and deregistration procedure for granting access to all information systems and services. The allocation and use of any privileges in an information system environment are restricted and controlled; i.e., privileges are allocated on a need-to-know basis, with privileges being granted only after a formal authorization process. The allocation and reallocation of passwords are controlled through a formal management process, and users are required to sign a statement to keep the password confidential. A process is in place for the review of user access rights at regular intervals. 
+		Comments: How access is granted will very likely have to change with an outsourcing company having many personnel taking on roles that were traditionally held internally to the organization. References to job titles in the policies or standards might not match anymore when it comes to roles that approve or review access. This is another area of concern that needs to be clearly spelled out in the contract with the outsourcing company. The importance and the level of effort that are required to restructure the actors in the access control processes are easily underestimated and can be the source for many audit findings.
+		Questions:
+	▪	Are there formal policies, standards, and processes that ensure that users are registered and deregistered?
+	▪	Are the existing processes and standards scalable enough to address the outsourcing situation?
+	▪	How are personnel of the outsourcing company registered or deregistered?
+	▪	How are privileges determined and assigned?
+	▪	Are the processes for approval and privilege management scalable enough to address the outsourcing situation? The structure of the outsourcing company might not map to the client's organization; titles might be different or job descriptions vary, resulting in existing process documentation not using the right people/title.
+	▪	Help desk—Password management is another area at which to take a closer look. Which access needs to be changed? Which access cannot be given to the outsourcing company's personnel?
+	▪	What do outsourcing personnel need to contractually abide by?
+	▪	What is enforceable when it comes to an incident that involves passwords? Existing forms may be written with only employees in mind. 
+	▪	Are access rights reviewed on a regular basis, at least annually?
+	▪	Is the review process scalable enough that it can be used with the new outsourcing situation?
+User Responsibilities Security
+		Description: There are security practices in place to guide users in selecting and maintaining secure passwords. The users and contractors are made aware of the security requirements and procedures for protecting unattended equipment. A clear desk policy with regard to papers and removable storage media has been adopted. The organization has adopted clear screen policy with regard to information processing facility.
+		Comments: With the outsourcing activities very likely resulting in new systems and new processes being needed, it is critical to ensure that password safety is still at the right level—i.e., users, regardless of whether they are employees or personnel of the outsourcing company, are required to use strong passwords. If this is an issue at the current point in time, it will just get amplified when the outsourcing company has taken over systems.
+		Questions:
+	▪	Are you doing the right things now? Do you have gaps? See description above.
+	▪	How are you planning to ensure that outsourcing personnel follow the same process as employees?
+	▪	Do you have an unattended equipment security standard in place that clearly spells out how the workstations and servers are protected (e.g., screen savers turn on after a certain amount of time and require a login to continue users' sessions).
+	▪	Can you enforce the unattended equipment security standard also to outsourcing personnel that might use their own equipment?
+We already touched on the potential changes in physical security. Those also can easily impact how clean-desk or clean-screen standards need to be implemented.
+	▪	Do you have a clean-desk standard?
+	▪	Is the clean-desk standard implemented and enforced?
+	▪	Does the clean-desk standard scale up to outsourcing personnel being onsite and offsite? (e.g., regular audits by the out-sourcing company and auditors)
+	▪	How can the clean-screen standard be implemented including outsourcing personnel?
+Network Access Control Security
+		Description: Users are provided with access only to the services that they have been specifically authorized to use. A policy exists that does address concerns relating to networks and network services. Appropriate authentication mechanisms are used to control access by remote users. Automatic equipment identification (where available) is being used as a means to authenticate connections from specific locations and equipment. Physical and logical access to diagnostic ports are securely controlled, for example, protected by a security mechanism. Groups of information services, users, and information systems are segregated on networks. The network that business partners and/or third parties use to access their information system is segregated using perimeter security mechanisms such as firewalls. Consideration is made for segregation of wireless networks from internal and private networks. An access control policy exists which states network connection control for shared networks, especially for those that extend across the organization's boundaries. The access control policy states routing controls are to be implemented for networks. Those routing controls are based on the positive source and destination identification mechanism.
+		Comments: With more and more companies looking into implementing bring-your-own-device (BYOD), this area becomes not only a challenge for IT, but also for security.
+		Questions:
+	▪	Has your organization already implemented a BYOD/ third-party device standard that is supported by a policy that allows the outsourcing company's personnel to access the network that way? 
+	▪	If there is no BYOD/third-party device standard or supporting policy, can the existing standards, policy, and processes be adopted to allow for outsourcing company's personnel to attach their devices to the organizations network?
+Particularly with large outsourcing engagements, it is critical that outsourcing companies bring people onsite to talk and work with your personnel to capture information and knowledge before it walks out the door in the form of a former employee who has either decided to move on or was let go. At the same time you also do not want to provide network access as an "all or nothing" type. Determining which network access is needed for which outsourcing team should be done by experienced personnel and not the outsourcing company that might provide itself more access than it really needs.
+	▪	Does your current process allow for limiting access to just the network resources that are required for certain processes (e.g., firewall log review)?
+	▪	If such a process exists, does it scale to include the outsourcing company's personnel and their needs to connect, for example, to the outsourcing company's internal systems using a VPN?
+Sometimes an outsourcing initiative takes on such a large scale that it is not feasible to maintain a physical building that can house all remaining employees. Many of the remaining employees are being asked to work from home.
+	▪	Is the organization prepared for such a shift in how work is performed? Is there a scalable strong authentication model in place?
+	▪	Does the remote access solution have enough "horsepower" to support the increased number of remote connections?
+Nowadays the bandwidth available to broadband users at home can be quite high, compared to 10 years ago. What was maybe a good remote access solution three years ago might collapse nowadays under just 10 percent more users.
+During transition time you will very likely have many more devices on your local network. IDS and IPS solutions might trigger many false positive alerts due to the unusual nature of the network traffic. Network equipment identification can be critical to make sense out of network intrusion detection alarms. If not already in place, now is the time to put a solution in place that scales up to the new situation with outsourcing equipment showing up on the local network.
+	▪	Is your equipment's back door (i.e., maintenance/diagnostic access), secured beyond access being restricted to the local network?
+It is a common practice that system administrators create back doors to their systems. The fear of a hacker locking out the system administrator has been around for decades and was profitably one of the first measures taken to address a security breach. Outsourcing personnel preparing systems for a transition to their data center might already establish common accounts on your systems. Even after they leave, the access to your network might now span countries or even continents.
+	▪	How do you want to segregate this new network? (i.e., out-sourced network and the remaining local network at your facilities.)
+The layered approach you had in place might not work anymore. Keep in mind that the outsourcing company's personnel have now taken on some of the administrative roles, which in most cases means they have the keys to (your!) castle. To use network segregation and maybe exclude some extremely critical systems from being accessible from all outsourcing locations should be considered.
+Network connection control and network routing control are two other critical areas that require your attention. Depending on the complexity of the new network that is made up of your LAN and the outsourcing company's LAN (at least a subset of it), you will not get around the introduction of routing protocols and maybe even Network Address Translation (NAT) rules. Everyone who has seen such a network before knows that the network security will become a nightmare due to the complexity of the structure of it. To introduce network connection control might be something to think about; however, if the outsourcing company does not have already this in place, it will very likely become a half-baked solution (on your side) with limited value.
+Operating System Access Control Security
+		Description: The access to operating systems is controlled by a secure log-on procedure. Unique identifiers (user IDs) are provided to every user, such as operators, system administrators, and all other staff including technical. A suitable authentication technique is chosen to substantiate the claimed identity of the user. Generic user accounts are supplied only under exceptional circumstances when there is a clear business need. Additional controls may be necessary to maintain accountability. Password management systems enforce various password controls such as individual password for accountability, enforcment of pass-word changes, storage of passwords in encrypted form, not displaying passwords on screens, etc. Utility programs that might be capable of overriding system and application controls are restricted and tightly controlled. Inactive sessions are shut down after a defined period of inactivity. There are restrictions on connection time for high-risk applications.
+		Comments: There are many roads that lead to Rome, and this is also true for securing a system or even an organization. I have seen organizations that prefer the fingerprint reader, others prefer passwords, and some prefer hardware tokens to log in to their workstations. So when you get personnel from the outsourcing company onsite that connect to your network, you might see that they are using a different means of authentication to access the outsourcing company's systems that are used to deliver service to your organization. This form of authentication might or might not be in compliance with your policies and standards. If the access methods do not increase your risk level, it would be advisable to adjust your standards. Most people might just say this is an exception and does not require any change of the standard. Once you open up the floodgates of exceptions for a long-term relationship like the one that you have with an outsourcing company, you will easily drown in exceptions, quickly getting to a point where you do not understand your organization's real security posture anymore. Risk assessment results will need to be reviewed for approved exceptions and the ratings adjusted as needed. This approach might work for your internal staff; however, if you have external auditors, you might be up for a long discussion with them. If your policies and standards are not already written in a way to allow for some flexibility, it is easier to adjust the policies and standards than to go the route of many exceptions. 
+		Comments: User IDs and account access are areas that auditors like to pay particular attention to, because they obviously introduce a high risk, if done wrong or not maintained.
+		Questions: 
+	▪	Do you have any shared user accounts that are not accounted for?
+	▪	Are there generic user accounts without documentation?
+	▪	Is there a process to review accounts on a regular basis?
+Now is the time to get your user access in order, before some of the tribal knowledge walks out the door. This might happen sooner than later, once people hear that their job is at risk of being outsourced. Other areas to think about are as follows:
+	▪	Can your authentication methods be used remotely by out-sourcing company personnel?
+	▪	Do you use authentication methods that are homegrown, using e.g., old "unsalted hashes" to store passwords? (LinkedIn learned this the hard way in 2012, not using any salted hashes to store passwords.[*])
+	▪	Do users need to show up in person to sign up for an account?
+Showing up in person to sign up for an account might not work if there is a global delivery model, and personnel of the outsourcing company requiring accounts are in a foreign destination. The same holds if you outsource this function and it is suddenly located in a foreign country. It is not very practical to expect a user to travel abroad to get a user account. A local trusted resource will need to take on the process of verifying the identity of the individuals that request user accounts.
+	▪	Is there an automated password management system in place? This becomes a critical system that you want to pay particular attention to when it comes to documentation and capturing the tribal knowledge that your staff has accumulated over the years.
+	▪	Does your organization use system utilities, for example, for the help desk?
+When looking at the level of access and the information the outsourcing company personnel potentially could gain access to, the question of trust comes to mind. Does the use of a support tool that can connect to users' PCs and see everything on the screen and hard drive introduce a risk that the organization is not willing to take for senior executives (i.e., this group would have special in-house support)? Some of those tools allow a silent mode where the user is not notified that a remote user is monitoring what they are doing with their PC. There are other aspects to consider when discussing the use of such remote support tools. In some cases they had been used only on the Local Area Network (LAN), and suddenly they are used across Wide Area Networks (WAN). The delay, the potential Network Address Translation (NAT), etc., can all result in a tool that was used for years suddenly not working anymore, at least not from the remote location that the outsourcing company has in place for support.
+Other areas that might create new problems are aggressive session time-out settings that simply time out due to network congestion on the WAN, maybe not during normal operation but during special situations—and the first one to two years will be a special situation with some surprises (e.g., network bandwidth problems).
+If you have limitations on connection times, you might have to rethink them. Particularly if the outsourcing company has personnel in India, or other offshore locations, you will see activity during times that your local support personnel normally are asleep.
+Application and Information Access Control Security
+		Description: Access to information and application system functions by users and support personnel is restricted in accordance with the defined access control policy. Sensitive systems are provided with dedicated and isolated computing environment such as running on a dedicated computer, sharing resources only with trusted application systems, etc. 
+		Comments: If you have had problems in the past with who has access to information and how this access is given, then the problem will just increase when adding the outsourcing personnel in the picture. Whatever you currently have in place is tailored to the internal structure of your organization. Titles and roles might factor in on who has to sign off. Role-based access, entitlement-based, discretionary, mandatory, group-based, etc., access control—each of those models will exhibit slightly different problems related to outsourcing personnel requiring access. However, if you outsource the majority of IT, you will very likely have a problem with your existing workflow since now outsourcing personnel are in the roles that used to sign off on the access. For the majority of access that might be OK; for some access you will want to have someone from your organization to sign off and provide oversight to the process. Just to show that the devil is in the details, having a manager from the outsourcing company sign off on access to reports that were created to evaluate the outsourcing company might not be a good idea. If you have systems that contain sensitive information, they very likely require additional security measures such as network segregation by putting them on a separate net-work and dedicated computing equipment. This usually can be achieved with limited resources when you own your own IT environment. When outsourcing such a system, you very likely have to make compromises or pay a lot of money to the out-sourcing company to create a separate environment. The trend of virtualizing systems and the move to the cloud will require you to transform your security controls, so they can be used in a public cloud environment. There are some guidelines and techniques that can help you. Below are some questions and guidance on how to address the transforming of controls, so they can be used in a public cloud environment.
+		Questions:
+	▪	Can the existing security control be implemented in the public cloud? 
+	▪	If the existing security control cannot be implemented in the public cloud, is there a security control in the public cloud that can be used to address the risk?
+	▪	Does the cloud environment introduce new risks that you need to address with additional security controls?
+	▪	If you cannot secure the application/system sufficiently, can the system stay in-house and not be put into the cloud?
+Mobile Computing and Teleworking Security
+		Description: A formal policy is in place, and appropriate security measures are adopted to protect against the risk of using mobile computing and communication facilities. Risks such as working in an unprotected environment are taken into account by a mobile computing policy. A policy, operational plan, and procedures are developed and implemented for teleworking activities. Teleworking activity is authorized and controlled by management, ensuring that suitable arrangements are in place for this way of working.
+		Comments: No other area has changed the traditional network security more than the general trend of the mobile computing with the latest trend being bring-your-own-device (BYOD) that was kicked off in early 2012 due to organizations trying to bring down the costs for mobile devices. This trend has created a nightmare, not only for security, but also for IT. Supporting various platforms and carriers and ensuring that security policies can be applied to the devices have left the IT professionals scratching their heads on how to address this cost-saving measure. Depending on how aggressively your organization picks up such general trends, you might already be in the middle of addressing those issues, have not even started, or have already determined that the cost savings are outweighed by the additional security measures required to address the increased risks introduced by BYOD. With the outsourcing personnel bringing their devices, you just received another group of devices to worry about. Have you thought about the teleworkers in your organization? You might not have any full-time teleworkers; however, you are very likely to have part-time teleworkers, such as the manager who works from home on Fridays. The full-time teleworkers might be the biggest challenge; sometimes far away from any company presence, they might have seen an office maybe once or twice during the years they have been with the company. If those individuals are on the list of jobs that are being outsourced, you better make sure that you understand what corporate assets they have at home before the word goes out that outsourcing is going to impact their jobs. Implementing tracking processes also helps when you have remote outsourcing personnel use your IT assets. 
+		Questions:
+	▪	How do you ensure that the right level of physical security is in place with teleworkers?
+	▪	Are your existing policies and processes scalable to a level that outsourcing personnel in a foreign country can use the company's IT assets in a secure legal fashion? (i.e., can all software be used in those countries or are there export restrictions in place?)
+Security Requirements of Information Systems
+		Description: Security requirements for new information systems and enhancement of the existing information system specify the requirements for security controls. The security requirements and controls identified reflect the business value of information assets involved and the consequence from failure of security. System requirements for information security and processes for implementing security are integrated in the early stages of information system projects.
+		Comments: Security requirements reflect the risk appetite and the capabilities of an organization. Coming up with security requirements that are not implementable does not help anyone. Security capabilities that are built as the result of a strategic security roadmap are usually reusable capabilities. When you outsource your IT and maybe all or part of your security capabilities, this whole model will start to shift, i.e., the outsourcing company might offer other solutions that might have been ruled out in the past for various reasons; however, the solution that you currently have in place might not be acceptable to the outsourcing company for various reasons. To come up with a model of what the security architecture could look like after transition can be challenging due to the many moving pieces that a large outsourcing initiative can bring with it. Still it is imperative to get an understanding of how your risk posture is going to change. This can be a time-consuming exercise, and results might not be available when the transitioning starts. It is critical to gain a high level understanding of where there are gaps, and potential overlap. Depending on which outsourcing company you are dealing with, you will see a vendor bias to one vendor or another. It is critical for outsourcing companies to strike strategic partnerships with vendors to achieve further cost savings. To push for a solution that is not part of their strategic portfolio of relationship partners can easily create a difficult situation. When negotiating with the outsourcing company, you should have two things in mind: what is the absolute minimum that I require to come out of these negotiations, and what is the best outcome out of these negotiations. Being inflexible has a price tag that your organization is going to be paying. 
+		Questions:
+	▪	Are your standard security requirements up to date (i.e., do they still reflect the current set of security controls)?
+	▪	Do your current security controls, which will be the set of security requirements that will be in the contract, still reflect the current thinking on risk acceptance?
+	▪	Do you have security requirements and design as part of your System Development Life Cycle (SDLC)?
+	▪	Does your SDLC scale up to the new outsourcing situation?
+If you have any deficiencies in the above areas, now is the time to review and update the processes, standards, and the documentations that make up the framework for your SDLC. Once the outsourcing activities have started, it will be much more difficult to change them.
+Correct Processing in Applications Security
+		Description: The data input to application systems is validated to ensure that it is correct and appropriate. Validation checks are incorporated into applications to detect any corruption of information through processing errors or deliberate acts. The design and implementation of application level security ensure that the risks of processing failures leading to a loss of integrity are minimized. Requirements for ensuring and protecting message integrity in applications are identified, and appropriate controls identified and implemented. A security risk assessment is being carried out to determine if message integrity is required, and to identify the most appropriate method of implementation. The data output of the application system is validated to ensure that the processing of stored information is correct and appropriate to circumstances.
+		Comments: When evaluating an outsourcing provider and its capabilities in the software development space, many organizations still measure against what they have been doing in application security, not the latest thinking of how to develop secure applications. Applications have been in the crosshairs of various groups: hacktivists, hackers, foreign governments, etc. with zero-day exploits being developed for vulnerabilities that were just discovered, and your organization might be at least one step behind. The times when the infrastructure was the main target of attackers are long gone. Input validation, output validation, control of internal processing, and message integrity are some areas that make up a large part of what application develops should be worrying about. Application security by itself could easily fill a book. Since the early 2000s many big names (e.g., Carnegie Mellon) have been coming up with approaches for how to better address security in application development.
+		Questions:
+	▪	Is your application development life cycle appropriately addressing security?
+	▪	Are you spending a lot of money on having to go back and fix security flaws, after the application failed a final security scan? 
+	▪	Does the outsourcing company offer a secure development methodology?—It might be a good idea to spend some time understanding what is offered and if it is better than what you have in-house.
+Cryptographic Controls Security
+		Description: The organization has a policy on use of cryptographic controls for protection of information. A key management is in place to support the organization's use of cryptographic techniques, ensuring that cryptographic keys are protected against modification, loss, and destruction. Secret keys and private keys are protected against unauthorized disclosure. Equipments used to generate and store keys are physically protected. The key management system is based on an agreed set of standards, procedures, and secure methods.
+		Comments: Cryptography is, nowadays, kind of the silver bullet, when it comes to ensuring confidentiality or the integrity of sensitive information. Unfortunately there is a shortage of skilled people who understand key management and encryption standards in the software development community, which sometimes results in solutions that have the devil in the details. A prime example is database encryption that is "sold" as the silver bullet, addressing all encryption requirements. The data-base encryption becomes pointless in the case of application-based attacks, where the database allows certain user groups to access the data in a transparent fashion, i.e., the information is available in clear text to an attacker of the application that uses the data. Such solutions may address backup security issues but not other security issues. Particularly key management processes and standards should be reviewed to ensure that they still work as intended once processes are executed by personnel from the outsourcing company onsite or potentially even offsite. If you are required to comply with NIST guidelines that require FIPS-140 certified encryption, you might be up for a surprise depending on who you talk to. This requirement in particular, is not well understood by outsourcing companies that do not have a US government practice. 
+		Questions:
+	▪	Do you have a clear cryptographic policy that drives your cryptography standards?
+	▪	Do those standards scale up to the outsourcing situation?
+Security of System Files
+		Description: Procedures are in place to control installation of soft-ware on operational systems. System test data is protected and controlled. Personal information or any sensitive information for testing the operational database is shunned. Strict controls are in place to restrict access to program source libraries.
+		Comments: If you had problems in the past with how your operational environment is secured from unauthorized code deployments or other down time, now is the time to put together a list of problems. If processes are not defined and/or security controls are missing to ensure that the operational/production environment's integrity stays intact, then moving this to an outsourcing company will just increase the problem. The tribal knowledge that is very likely used to avoid major problems when informally moving code into production is not there with the new personnel. Documenting the process and also implementing the right level of security controls will not only help the outsourcing personnel to do the right thing; it will also ensure that when you get audited the auditors have a good feeling about how your operational environment is protected against intentional or unintentional changes. Testing of new code should never been done with production data. However it is common practice that developers require production data either to f ix a certain bug in the code or to simply do their testing. As long as this production data is properly protected, then this practice imposes just a minimal risk. Unfortunately in most of the cases this is not the case; traditionally development environments are way less secure than the production environment. Thumb drives being used to transfer data from one developer machine to another are not unusual. As long as this is done internally by your staff, you kind of have control over it. Once a development team from an outsourcing company takes on the development, the problems might get much bigger. The team might be sitting somewhere halfway around the globe, in a foreign country. The development team is just concerned with fixing a problem, not knowing that they just had downloaded healthcare information about US citizens to their laptop which was specifically spelled out in the outsourcing contract as data that could not leave the United States, might put you in a difficult situation. The situation gets worse when developers are shared between clients of the outsourcing company, potentially using your data for testing with another client's application. All the scenarios described have been observed in outsourced environments, not speaking of the countless thumb drives that have been lost over the years. What applies to data also applies to source code; being shared via thumb drives, it is not unusual that source code is being lost. Another risk with this practice is that developers have the tendency to keep a copy of the code they just developed, so they can reuse it in the future. If you have not invested time and money into securing system files, now is the time before the problems get even bigger due to missing security controls (e.g., Tripwire). 
+		Questions: 
+	▪	Does your organization have controls in place that prevent unauthorized installations with IT equipment?
+	▪	Do these controls scale up to an outsourcing situation?
+Security in Development and Support Services
+		Description: Strict control procedures are in place to control implementation of changes to the information system. These procedures address the need for risk assessment and impact analysis. There is a process in place to review and test business-critical applications for adverse impact on organizational operations or security after the change to operating systems. Modifications to software packages are discouraged and/or limited to necessary changes. There are controls in place to prevent information leakage. Controls such as scanning of outbound media, regular monitoring of personnel and system activities permitted under local legislation, or monitoring resource usage have been implemented. Outsourced software development is supervised and monitored by the organization. 
+		Comments: The change control process is an area that will be stretched to the maximum during the transition time. To have a scalable process that can handle the volume of changes and the kind of changes that outsourcing an IT operation introduces is imperative to the success of the outsourcing initiative.
+		Questions:
+	▪	Has the change control process been documented?
+	▪	Is the change control process always followed or are there exceptions (e.g., emergency changes)?
+	▪	Does the existing process scale up to include the outsourcing company's services provided to the organization?
+Areas of interest are e.g., conference lines, can they been dialed-in from a foreign country, and are the change control meetings at times where locations with different time zones are operating? A call at noon might be the worst thing for locations that are ahead or behind the local time. Other areas are the way changes are distributed. E-mail might work for a limited number of changes; however, for large number of changes you will need to have a commercial change management system that keeps track of the changes and allows participants to review, comment, and approve/deny changes remotely.
+As part of the outsourcing deal you might be planning on a technology refresher, which usually means for servers and workstations an upgrade to a new operating system (OS). This can easily result in your organization coming to a screeching halt if done wrong. Even testing in virtual environments is no guarantee that the new OS is not going to cripple critical business applications on the server or workstation. Testing on a server might be even easier than at a workstation, if your organization has a testing environment that really mirrors production. However organizations are usually short on servers in their test environment due to multiple activities taking place at the same time. This results in the interesting situation of one project requiring an exact copy of the production environment to do their testing before deploying to production and another one trying to upgrade the OS and having to test it in the test environment first before going to production.
+	▪	What is your organization's stand on changes to software packages?
+Depending on your organization's stand, changes to software packages are strictly controlled or limited changes are allowed without being tracked or approved. If you take a more relaxed stand on this topic, it is very likely to backfire on you when the outsourcing company is trying to get a handle on what the standard install is. The outsourcing company requires standardization wherever they can or they will ask you to pay for customized service, i.e., extra work. This is one of those situations that you might consider arguing. However, the nonstandard way to maintain these software packages is more expensive for the outsourcing company. Too many outsourcing deals go bad simply due to the client trying to get the maximum cost savings. Nothing is free. Thinking you can save 50 percent of your last year's operational budget is simply not realistic, particularly if you expect the same level of quality.
+	▪	Have you had information leakage problems in the past?
+Outsourcing companies have high turnover rates with staff, particularly in less developed countries. This also goes hand in hand with other moral standards compared with, for example, the United States. Something that we might feel is a lie is just a way of saving face in another culture. So taking software code or other valuable information is acceptable in certain cultures. Other cultures consider it as theft of intellectual property (IP). Data loss prevention tools and strict controls with outsourced software development might be required to ensure that your IP does not wind up in the hands of a direct competitor of your organization.
+Technical Vulnerability Management Security
+		Description: Timely information about technical vulnerabilities of information systems is being obtained. The organization's exposure to such vulnerabilities is evaluated and appropriate measures are taken to mitigate the associated risk.
+		Comments: Software vendors have been overwhelmed with zero-day exploits, meaning the vulnerability becomes public knowledge and at the same time hacker tools become available to exploit the vulnerability. Due to the dependency of vendors like Microsoft, Oracle, or other big software vendors it is nearly impossible for an organization to fix the vulnerability themselves. 
+		Questions:
+	▪	How does your organization handle zero-day vulnerabilities or address vulnerabilities in general?
+The best you can do is a work-around or turn the vulnerable service/application off until the vendor provides a patch. With browser vulnerabilities making up a majority of discovered vulnerabilities, it is sometimes impossible to implement any work-around.
+	▪	How fast can your organization identify vulnerable systems?
+	▪	Does your organization have processes in place on how to address such vulnerabilities?
+	▪	What is the SLA that the outsourcing company has provided you regarding patching? Is it realistic? Does it address zero-day vulnerability situations?
+If your answer is "no" or "unknown" to any of the questions above, you might want to get a better understanding of how the outsourcing company handles such situations, whether they can provide some metrics on how fast they patch, and how they address zero-day exploits/vulnerabilities. Even if the outsourcing company has outstanding metrics when it comes to patching, this is no guarantee that your organization stays secure in the future if the trend of zero-day exploits/vulnerabilities continues. Zero-day vulnerabilities basically render the traditional approach of develop a patch, test it and deploy it useless.
+Reporting Information Security Events and Weaknesses Security
+		Description: Information security events are reported through appropriate management channels as quickly as possible. Appropriate reporting procedure, incident response, and escalation procedure have been developed and implemented. A procedure exists that ensures that all employees of information systems and ser-vices are required to note and report any observed or suspected security weakness in the system or services. 
+		Comments: Reporting security events is a critical process that not only drives the remediation efforts to a security event but also allows for collection of metrics that later are used to determine if measures/investments into information security have shown the success that was expected when they were first put in place.
+		Questions:
+	▪	Does your organization's security event monitoring use industry standard technology or is it a homegrown solution?
+	▪	If the solution is a homegrown solution, it very likely does not scale up to an outsourcing situation. Are you ready to invest in a new solution?
+	▪	Do your processes around security event notification and handling scale up to the new outsourcing situation?
+	▪	Does your organization keep track of security events? Is the process scalable enough to accommodate input from a third party's incident management tool? Or is there a manual process required to track this information (e.g., Excel spreadsheet).
+Having people proactively reporting security weaknesses is the dream of every security professional that has been tasked with security event management or risk management in general. This requires trained and educated people that can distinguish a security problem from a problem that might not really be security related.
+	▪	Does your organization allow for pro-active security weak-ness reporting?
+	▪	If you have this type of reporting established, is this a process that can be expanded to include the outsourcing company's personnel?
+Having this type of reporting coming from the outsourcing company side might be seen as an additional service provided, adding cost. It might even result in a formalized risk assessment that is conducted on a regular basis by the outsourcing company. Just to be clear, this type of reporting is not the same as a formalized risk assessment.
+Management of Information Security Incidents and Improvements Security
+		Description: The organization has given management responsibilities, and procedures were established that ensure quick, effective, and orderly response to information security incidents. Monitoring of systems, alerts, and vulnerabilities are used to detect information security incidents. The objective of information security incident management has been agreed on with management. There is a mechanism in place to identify and quantify the type, volume and costs of information security incidents. Information gained from the evaluation of the past information security incidents is being used to identify recurring or high impact risks. Follow-up actions against a person or organization after an information security incident involve legal actions (either civil or criminal). Evidence relating to the incident is being collected, retained, and presented, to conform to the rules for evidence laid down in the relevant jurisdiction(s). Internal procedures have been developed and followed when collecting and presenting evidence for the purpose of disciplinary action within the organization.
+		Comments: For a security organization to function, it is critical that the responsibilities and procedures are clearly under-stood and addressed by security personnel, management, and employees.
+		Questions:
+	▪	Does management responsibilities and procedures support effective and orderly response to information security incidents?
+	▪	Is monitoring of systems, alerts, and vulnerabilities used to detect information security incidents?
+	▪	Is the objective of information security incident management agreed on with the management?
+	▪	How would the outsourcing company be included in the processes and potentially in the decision making?
+Handling security incidents is one thing, but to be able to conclude what the root cause was and to identify patterns throughout the security incidents from the year is another thing. Only if you can do the required analysis afterwards can you learn from security incidents.
+	▪	Do you have mechanisms in place to identify and quantify the type, volume, and costs of information security incidents?
+	▪	Does information gained from the evaluation of the past information security incidents allow you to identify recurring or high impact incidents?
+	▪	Do the existing processes scale up for the new outsourcing situation?
+The correct collection of evidence is a critical part of any litigation process that might follow a security incident. Only if evidence has been handled appropriately can it be used in court to make a case.
+	▪	Has the organization defined any follow-up actions that might involve legal actions in the case of a security incident? Do those actions scale up to include the outsourcing company?
+	▪	Is evidence relating to an incident collected and retained to conform to the rules for evidence presented in the relevant jurisdiction(s)?
+	▪	Are internal procedures developed and followed when collecting and presenting evidence for the purpose of disciplinary action within the organization? How would this be handled with outsourcing personnel?
+	▪	How can the geographically dispersed delivery model of the outsourcing company be addressed in case of the need to collect evidence?
+Those are all questions that should be addressed before outsourcing activities start. The outsourcing company will offer a solution to any of your problems in the security incident space. Just keep in mind; you are the expert when it comes to your business. Outsourcing companies usually have a general understanding of security incident management, but they are relying on you to define the specific requirements, to tailor the solution to your needs. This is best done when you have a working solution from which you are allowed to derive requirements. If your organization has not achieved a working solution, it is difficult to define the right requirements.
+Information Security Aspects of Business Continuity Management
+		Description: A managed process has been put in place that addresses the information security requirements for developing and maintaining business continuity throughout the organization. The process takes into consideration the specific risks that the organization is facing, identifies business critical assets, identifies incident impacts, considers the implementation of additional preventative controls, and supports creating the documents required by the business continuity plans addressing all security requirements. Events that cause interruption to business processes have been identified along with the probability and impact of such interruptions and their consequence for information security. Plans have been developed to maintain and restore business operations, ensure availability of information within the required level in the required time frame, following an interruption or failure to business processes. The plan considers identification and agreement of responsibilities, identification of acceptable loss, implementation of recovery and restoration procedure, documentation of procedure, and regular testing. There is a single business continuity plan for an organization establishing a framework for business continuity plans on a lower level. The framework has been maintained to ensure that all plans are consistent and identify priorities for testing and maintenance. The business continuity plans address the identified information security requirements of the organization. Business continuity plans have been tested regularly to ensure that they are up to date and effective.
+		Comments: Now with outsourcing coming into the picture, business continuity management can become a more challenging job, not only that you very likely will have to deal with more natural disasters, strikes, and other man-made problems than before, but you also have another layer of management that you have to deal with. The outsourcing company has their own business continuity program, which might or might not address your needs. In any case if you do not have a working business continuity program, it will not magically start working just because you have an outsourcing company providing most of your IT services. 
+		Questions:
+	▪	Do you have a managed process in place that addresses the information security requirements for developing and maintaining business continuity throughout the organization?
+	▪	Does this process reflect the risks the organization is facing, identify business critical assets, identify incident impacts, and consider the implementation of additional preventative controls in the business continuity plan?
+	▪	Does this process scale up to the new outsourcing situation?
+It is critical to the business that risk assessments covering business continuity aspects identify actions required to ensure that a functional business continuity plan is in place.
+	▪	Have you identified threats that might cause an interruption to critical business processes? Does the likelihood and impact need to be adjusted due to the outsourcing operation?
+	▪	Are there any plans for updating the business continuity plans to include the outsourced operation?
+Most business continuity plans seem to lack the information security aspect in them. It is understandable that during a crisis the focus has to shift; however, crime does not wait for better days. If criminals see an opportunity, they will act.
+	▪	Does the existing business continuity plan address the recovery time objective (RTO) and the recovery point objective (RPO) of outsourced systems? Are those RTO and RPO times part of the set of requirements for the outsourcing operation?
+	▪	Does the existing plan identify the responsibilities during a business continuity situation? How will the outsourcing company be integrated in the plan, to ensure that all business critical processes can function?
+Organizations should be using business continuity planning frame-works, which help to build and maintain business continuity capabilities.
+	▪	Does your organization use a single framework for the business continuity plan?
+	▪	Is the framework maintained, and are all plans consistent and identify priorities for testing and maintenance?
+	▪	Does the business continuity plan address the required information security requirements?
+The best business continuity plan will eventually be outdated. To ensure a working plan, it needs to be regularly tested, maintained, and reassessed. If you have never tested your business continuity plan, it will be difficult to include the outsourced operation and be sure that it is executable.
+	▪	Are business continuity plans tested regularly to ensure that they are up to date and executable?
+	▪	Are business continuity plan tests tailored to ensure that all members of the recovery team and other relevant staff are aware of the plans and their responsibility for business continuity, information security?
+	▪	What is going to change with the team composition once the outsourcing personnel have taken on responsibilities that used to be with your own personnel?
+Compliance with Legal Requirements Security
+		Description: All relevant statutory, regulatory, contractual requirements and organizational approach to meet the requirements have been explicitly defined and documented for each information system and organization. Specific controls and individual responsibilities to meet these requirements have been defined and documented. Procedures to ensure compliance with legislative, regulatory and contractual requirements on the use of material in respect to which there may be intellectual property rights and on the use of proprietary software products have been implemented. Publishing intellectual property rights compliance policy, procedures for acquiring software, policy awareness, maintaining proof of ownership, complying with software terms and conditions have been implemented. Important records of the organization are protected from loss destruction and falsification, in accordance with statutory, regulatory, contractual and business requirement. Consideration is given to possibility of deterioration of media used for storage of records. Data storage systems have been chosen so that required data can be retrieved in an acceptable timeframe and format, depending on requirements to be fulfilled. Data protection and privacy are ensured as per relevant legislation, regulations and if applicable as per the contractual clauses. Use of information processing facilities for any nonbusiness or unauthorized purpose without management approval is treated as improper use of the facility. During log-on a warning message is presented on the computer screen prior to log-on requiring a user to acknowledge the warning and react appropriately to the message on the screen to continue with the log-on process. Legal advice is taken before implementing any monitoring procedures. Cryptographic controls are being used in compliance with all relevant agreements, laws, and regulations. 
+		Comments: If your organization is required to be in compliance with certain laws and regulations, now is the time to identify all applicable laws and regulations. If this has not been done, now is the time to ensure you have a complete understanding of what your requirements are in the compliance space. Changes to laws and regulations need to be monitored and a process implemented that ensures that the outsourced operation can keep up with those new requirements.
+		Questions:
+	▪	Are all relevant statutory, regulatory, contractual requirements and the organizational approach to meet those requirements explicitly defined and documented for each information system and organization?
+	▪	Are all controls and individual responsibilities to meet these requirements defined and documented?
+	▪	Can the same controls be used with the new outsourcing situation?
+Protecting you own intellectual property rights (IPR) is one area of concern; protecting the IPR where you received permission to use it is another. Keeping track of licenses of software copies is probably the most common form of protecting IPR of a third party, and too often organizations fail with this task.
+	▪	Do your procedures ensure compliance with legislative, regulatory and contractual requirements on the use of software/material in respect to intellectual property rights and on the use of proprietary software products?
+	▪	Are those procedures formally documented and implemented?
+	▪	Do you have controls, such as publishing intellectual property rights compliance policy, procedures for acquiring software, policy awareness, maintaining proof of ownership, complying with software terms and conditions implemented?
+	▪	Depending on the type of outsourcing deal, you might want to consider having the outsourcing personnel use your licenses or their own. In any case to establish a scalable processes that helps controlling the licenses you own is required.
+Your organizational records require protection, sometimes required by law, sometimes required by common sense to ensure the continuity of the operation of your organization.
+	▪	Are important records of the organization protected from loss, destruction and falsification, in accordance with statutory, regulatory, contractual and business requirement?
+	▪	Have you considered the possibility of deterioration of media used for storage of records?
+	▪	Has your organization chosen data storage systems that allow for the timely retrieval of required data in an acceptable format?
+Data protection and privacy of personal information are for the majority of cases regulated by law; the specifics of how they are implemented is usually left to the entities in scope of the privacy or data protection legislation/regulation.
+	▪	Does your organization address all legal requirements of the regulations that are applicable to your operations and collecting, storing and/or processing of personal information? 
+	▪	Does your organization address all legal requirements of the regulations that are applicable to your operations and collecting, storing and/or processing of data?
+	▪	Does the existing security/privacy model scale up to the new outsourcing situation?
+Depending on what outsourcing model the outsourcing company is proposing (e.g., foreign countries as location for your data), you will have to work with your legal department on determining if this is a feasible model. Even if it is legally feasible, the question comes up regarding how data breaches are handled in that country or what rights the local government has in that country. Many organizations quickly forget that outsourcing companies go to low cost countries that sometimes are less than stable, economically or politically. Certain governments have laws in place that allow them to spy on any communication taking place in their country, even the ones that are encrypted, e.g., Indian government putting pressure on Research in Motion (RIM), the manufacturer of the BlackBerry devices, to pro-vide the encryption keys, so communication to BlackBerrys in India can be eavesdropped on. After 4 years of RIM refusing to hand over the keys, it finally provided a partial solution to the Indian government in August 2012 which allows the Indian government to eavesdrop on any encrypted communication between personal BlackBerry users in India. This solution is not exactly what the Indian government had asked for. The Indian government is actually trying to eavesdrop on corporate communication. Some might think that it is more interested in capturing some of the trade secrets that go back and forth between the corporate BlackBerry users than actually finding information that helps to fight terrorism. Fighting terrorism was actually used as the primary reason by the Indian government when it asked for the encryption keys. Just to be clear: The encryption is actually a feature that is part of the BlackBerry Enterprise Server, used by corpora-tions. Having such a BlackBerry infrastructure is usually a significant investment that most terrorist organizations would shy away from for various reasons. Also each corporation sets its own encryption key, and RIM denies that there are any back doors. This situation shows how your sensitive corporate communication could be exposed to a foreign government, just by having one support engineer in a foreign country with a BlackBerry tied into your organization's BlackBerry Server. As part of your policy framework it should be clear that use of corporate property is subject to approval, if not used as intended by the organization. This is to clearly state what is allowed and what is not. Otherwise, it is nearly impossible to prevent misuse of information processing facilities or equipment. Use of information processing facilities for any nonbusiness or unauthorized purpose without management approval should be treated as improper use of the facility. This might not be a problematic area at the current point in time, even though organizations sometimes would be surprised about what is being done in facilities or with corporate equipment. Now with an outsourcing organization bringing on personnel that might support other clients from your location your organization has to adjust to what is acceptable and legal and what is not.
+	▪	Are the current policies and standards worded in a way that they address the new outsourcing situation, or do they need to be adjusted?
+	▪	Does your organization have a warning message presented on the computer screen prior to log-on?
+	▪	Does a user have to acknowledge the warning and react appropriately to the message on the screen to continue with the log-on process?
+	▪	Does your organization get legal advice before implementing any monitoring procedures?
+Particularly now that outsourcing personnel potentially are using equipment that belongs to your organization, some of the "safeguards" and terminologies that employees agreed to comply with are no longer in place. This is an area that either needs to be addressed in the contract with the outsourcing company or it needs to become part of the hardware distribution process, a form that clearly states the rules of acceptable behavior that apply to everyone.
+There is hardly any organization that does not heavily use cryptography to protect sensitive information, either for confidentiality reasons or to ensure that the integrity of the information is ensured. Some of those crypto algorithms used might be export controlled and cannot be used in foreign countries. Again keep in mind that the model of the outsourcing company might involve one or more foreign countries that support the engagement. Unfortunately outsourcing models are very complex nowadays, meaning there might be a primary location that supports your organization; however the internal help desk for the outsourcing operation in that particular country might be in a country that offers even cheaper labor. Outsourcing companies are constantly trying to save a penny or two. For example, a large outsourcing company has its internal help desk not in India but in Egypt. This makes it interesting since someone from a country that is restricted from receiving the encryption technology suddenly is trying to troubleshoot a problem with it. Even an outsourcing company's personnel who work locally might have to go back to their home country once a year, for example, to extend their visa, taking a laptop with them that was issued by your organization containing sensitive crypto technology on it. Keep in mind, in the end, your organization is responsible for the proper safeguarding of export restricted crypto technology.
+	▪	Are your current cryptographic controls used in compliance with all relevant agreements, laws, and regulations?
+	▪	Do the controls scale up to address the new situation with the outsourcing company personnel potentially using your equipment?
+Information Systems Audit Considerations Security
+		Description: Audit requirements and activities involving checks on operational systems are carefully planned and agreed on to minimize the risk of disruptions to business process. Audit requirements and scope are agreed on with appropriate management. Access to information system audit tools such as software or data files is protected to prevent any possible misuse or compromise. Information system audit tools are separated from development and operational systems, unless given an appropriate level of additional protection.
+		Comments: Depending on how regulated your industry or your particular organization is, you will be familiar with information systems audit controls. Audits can be highly disruptive, and the outsourcing company that you picked will need to support those audits. If your audits in the past have created a lot of "noise" in the sense that they were hardly supported, or scope discussions started during the audit, then you might have some homework to do before you can even define what needs to go into the outsourcing contract. Even your internal audit team might have to shift their modus operandi from what they were doing to an "outsourcing mode." What does that mean? Auditors usually work off a checklist. They ask for policies, standards, processes, and evidence of what processes or standards are abided with. This might create an interesting situation with the outsourcing company. If the auditor asks for a data classification standard, the outsourcing company will very likely provide the internal standard that is used for the outsourcing company's internal operation; however, it is not very likely applicable to the outsourcing engagement, which contains data of the client organization (what holds for policies, standards and processes also holds for data classification. One needs to be established at the engagement level). This situation creates a crooked picture of what is being done and what is required to be done. T he auditors will use the client's organization's data classification and map it to the IT system maintained at the outsourcing organization, to get a proper picture of the security controls and if they have been sufficiently addressed by the outsourcing company. The protection of information system audit tools is another critical area that would need to be addressed. Some of the audit information collected can be quite sensitive, and having it exposed to an unauthorized individual can be like giving away the keys to the castle. Having said that, it should be obvious that your audit systems in the hand of the outsourcing company's personnel creates an awkward situation. If the answers to the questions below already indicate a problem with your current practice, then you should fix those issues before turning over the IT systems that are having the problems. 
+		Questions: 
+	▪	Has management approved the requirements and scope of an audit? 
+	▪	Is access to information system audit tools such as soft-ware or data files protected to prevent any possible misuse or compromise?
+	▪	Are information system audit tools separated from development and operational systems, unless given an appropriate level of additional protection?
+Outsourcing Security Readiness Assessment
+Now that you know what areas to address, the next step is to deter-mine the outsourcing maturity levels of those areas. The following describes an assessment process that uses a five level scale to rate the maturity of the security areas previously described. The assessment uses four aspects for a final rating.
+	▪	Process Execution—How is the process executed? Is the process documented and the documentation well maintained? Are skilled resources available?
+	▪	Process Input—Is the input for the process documented and well understood, or are inputs not defined and the documentation has not been maintained?
+	▪	Process Dependencies—Are the dependencies for the successful execution of the process understood? Are the skill sets of the personnel understood and documented?
+	▪	Process Output—Is the output for the process documented and well understood, or is the output not defined and the documentation has not been maintained?
+This assessment is not to determine the maturity of a process but if a business process or a technical process can be transitioned to an out-sourcing company with the security posture staying intact during and after the transition. Without understanding the four aspects of a process, you will not be able to adjust it to the new outsourcing situation. You might even discover that a process might not require any adjustment. To get a complete view of the overall picture, it is suggested to use a spread-sheet as shown in Figure 4.4. The rating of zero to five has been chosen arbitrarily. A rating of zero to three could also be chosen, depending on how granular the results of the assessment need to be. Color-coding the ratings can help to present the results to upper management.
+ Open table as spreadsheet
+Outsourcing Maturity Level Assessment
+Process Execution
+Process Input
+Process Dependency
+Process
+Output
+Information Security Policies
+1
+3
+4
+5
+Internal Organization Security
+2
+1
+4
+3
+External Parties Security
+4
+5
+5
+5
+Information Classification Security
+4
+5
+5
+5
+Prior to employment Security
+0
+3
+4
+4
+During Employment Security
+2
+1
+4
+3
+Termination or change of employment Security
+4
+5
+5
+5
+Secure Areas Security
+0
+3
+4
+4
+Equipment Security
+2
+1
+4
+3
+Operational procedures and responsibility Security
+0
+3
+4
+4
+Third party service delivery management Security
+2
+1
+4
+3
+System planning and acceptance Security
+4
+5
+5
+5
+Protection against malicious and mobile code Security
+4
+5
+5
+5
+Information backup Security
+0
+3
+4
+4
+Network Security Management Security -
+2
+1
+4
+3
+Media handling Security
+0
+3
+4
+4
+Exchange of information Security
+2
+1
+4
+3
+Electronic commerce services Security
+4
+5
+5
+5
+Monitoring Security
+0
+3
+4
+4
+Business requirement for access control Security
+2
+1
+4
+3
+User Access Management Security
+4
+5
+5
+5
+User Responsibilities Security
+4
+5
+5
+5
+Network Access Control Security
+0
+3
+4
+4
+Operating system access control Security
+2
+1
+4
+3
+Application and Information access control Security
+4
+5
+5
+5
+Mobile computing and teleworking Security
+4
+5
+5
+5
+Security requirements of information systems
+0
+3
+4
+4
+Correct processing in applications Security
+2
+1
+4
+3
+Cryptographic controls Security
+4
+5
+5
+5
+Security of system files
+0
+3
+4
+4
+Security in development and support services
+2
+1
+4
+3
+Technical vulnerability management Security
+0
+3
+4
+4
+Reporting information security events and weaknesses Security
+2
+1
+4
+3
+Management of information security incidents and
+4
+5
+5
+5
+improvements Security
+Information security aspects of business continuity
+0
+3
+4
+4
+management
+Compliance with legal requirements security
+2
+1
+4
+3
+Information systems audit considerations security
+4
+5
+5
+5
+
+
+Figure 4.4: Assessment report.
+Depending on the time that remains before the outsourcing transition activities start, you might be able to address some or all of the problem areas. Having more areas in "good shape" should result in a smoother transition and a shorter time to come to a normal level of outsourcing operations. Everyone that has gone through a large-scale outsourcing transition can attest that knowledge is the key to a successful transition. Well-documented mature processes are no exception to that rule. Relying on employees who know that they are going to be laid off is usually not a good idea. Between low morale and the time crunch that the outsourcing activities will create, you will find that most "tribal knowledge" is not passed on to the outsourcing organization. By the time you find out that a process is broken due to lack of knowledge, it is usually too late since the employee with the expertise is no longer with the company. Particularly with security heavy processes, this can have a significant impact on the overall security posture. Once the external auditors have taken a closer look at the situation, you will know for sure.
+Tactical Goals—Now or Later?
+Most organization think that when they outsource part or all of the operations, it might be a good time for the implementation of some of the tactical goals which have been on the book for quite some time. If those goals are still aligned with the overall strategic direction, then they should be included in the scope of the outsourcing initiative. However, an analysis should take place for each of them to check if they are still valid. The strategic decision to outsource by itself might already negate some of them (e.g., better VPN access for IT personnel might no longer be an issue). Examples for tactical goals that make good candidates are security awareness training, management of physical security, access management. If you noticed you have issues with what you currently have in place, then those areas should be evaluated.
+Strategic Objectives—When?
+Lately there has been a shift in thinking of what makes up the right security measures to allow for the best investment of resources, mitigating high risk areas that are not acceptable to the organization. The traditional approach of the castle with solid walls to keep the bad guys out is long gone. Many corporations have a large number of employees with a mobile workforce using smartphones, laptops and iPads to access corporate systems, reading e-mails, accessing sensitive corporate information from their mobile devices. The next challenge has already arrived in the form of BYOD and the cloud, which has resulted in many cloud-based value-added services, where the sky seems to be the limit. Depending on the agility of your organization's business, the IT and security strategies are being reviewed and updated more than once a year. With this in mind you might run into the issue that an outsourcing company cannot keep up with the requirements that your organization has regarding turn-around time. Outsourcing engagements and the management of them usually adds an additional layer of bureaucracy to the change process. Contracts need to be updated, and legal needs to review them at a minimum. There are examples of large corporations that stated this as a reason to pull back from outsourcing and insource it again. The best example for this is General Electric (GE) a pioneer of outsourcing, which is now bringing its manufacturing back in-house. Another well-known name is General Motors (GM), bringing its whole IT back in-house, after years of having it outsourced. The questions of total cost of ownership (TCO)—sometimes also called Total Cost of Outsourcing—is in most cases underestimated, and particularly the cost for additional security that needs to be put in place to address the outsourcing situation is in most cases not well understood before the outsourcing deal is put in place. The outsourcing company is in most cases not very knowledgeable about a particular regulation that an industry needs to be compliant with. For that reason the approach that is chosen by the outsourcing company to implement the security controls that are required by a regulation are sometimes not implemented as intended by the entity that oversees the regulation. Outsourcing companies are driven by cost and SLA requirements, not by (client) risk. There might be a few exceptions; for example the latest HIPAA ruling (Omnibus[*]) from HHS in the United States clearly states that business associates to a covered entity are required to implement the same security and privacy measures as the covered entity and are as liable as the covered entity in the case of a data breach.
+[*]http://news.bbc.co.uk/2/hi/7218008.stm
+[*]http://nakedsecurity.sophos.com/2012/06/06/linkedin-confirms-hack-over-60-of-stolen-passwords-already-cracked/
+[*]http://www.hhs.gov/ocr/privacy/hipaa/administrative/omnibus/index.html

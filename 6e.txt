@@ -1,0 +1,385 @@
+This assessment is not to determine the maturity of a process but if a business process or a technical process can be transitioned to an out-sourcing company with the security posture staying intact during and after the transition. Without understanding the four aspects of a process, you will not be able to adjust it to the new outsourcing situation. You might even discover that a process might not require any adjustment. To get a complete view of the overall picture, it is suggested to use a spread-sheet as shown in Figure 4.4. The rating of zero to five has been chosen arbitrarily. A rating of zero to three could also be chosen, depending on how granular the results of the assessment need to be. Color-coding the ratings can help to present the results to upper management.
+
+ Open table as spreadsheet 5
+Outsourcing Maturity Level Assessment
+
+Process Execution
+
+Process Input
+
+Process Dependency
+
+Process
+
+Output
+
+Information Security Policies
+
+1
+
+3
+
+4
+
+5
+
+Internal Organization Security
+
+2
+
+1
+
+4
+
+3
+
+External Parties Security
+
+4
+
+5
+
+5
+
+5
+
+Information Classification Security
+
+4
+
+5
+
+5
+
+5
+
+Prior to employment Security
+
+0
+
+3
+
+4
+
+4
+
+During Employment Security
+
+2
+
+1
+
+4
+
+3
+
+Termination or change of employment Security
+
+4
+
+5
+
+5
+
+5
+
+Secure Areas Security
+
+0
+
+3
+
+4
+
+4
+
+Equipment Security
+
+2
+
+1
+
+4
+
+3
+
+Operational procedures and responsibility Security
+
+0
+
+3
+
+4
+
+4
+
+Third party service delivery management Security
+
+2
+
+1
+
+4
+
+3
+
+System planning and acceptance Security
+
+4
+
+5
+
+5
+
+5
+
+Protection against malicious and mobile code Security
+
+4
+
+5
+
+5
+
+5
+
+Information backup Security
+
+0
+
+3
+
+4
+
+4
+
+Network Security Management Security -
+
+2
+
+1
+
+4
+
+3
+
+Media handling Security
+
+0
+
+3
+
+4
+
+4
+
+Exchange of information Security
+
+2
+
+1
+
+4
+
+3
+
+Electronic commerce services Security
+
+4
+
+5
+
+5
+
+5
+
+Monitoring Security
+
+0
+
+3
+
+4
+
+4
+
+Business requirement for access control Security
+
+2
+
+1
+
+4
+
+3
+
+User Access Management Security
+
+4
+
+5
+
+5
+
+5
+
+User Responsibilities Security
+
+4
+
+5
+
+5
+
+5
+
+Network Access Control Security
+
+0
+
+3
+
+4
+
+4
+
+Operating system access control Security
+
+2
+
+1
+
+4
+
+3
+
+Application and Information access control Security
+
+4
+
+5
+
+5
+
+5
+
+Mobile computing and teleworking Security
+
+4
+
+5
+
+5
+
+5
+
+Security requirements of information systems
+
+0
+
+3
+
+4
+
+4
+
+Correct processing in applications Security
+
+2
+
+1
+
+4
+
+3
+
+Cryptographic controls Security
+
+4
+
+5
+
+5
+
+5
+
+Security of system files
+
+0
+
+3
+
+4
+
+4
+
+Security in development and support services
+
+2
+
+1
+
+4
+
+3
+
+Technical vulnerability management Security
+
+0
+
+3
+
+4
+
+4
+
+Reporting information security events and weaknesses Security
+
+2
+
+1
+
+4
+
+3
+
+Management of information security incidents and improvements Security
+
+4
+
+5
+
+5
+
+5
+
+Information security aspects of business continuity management
+
+0
+
+3
+
+4
+
+4
+
+Compliance with legal requirements security
+
+2
+
+1
+
+4
+
+3
+
+Information systems audit considerations security
+
+4
+
+5
+
+5
+
+5
+
