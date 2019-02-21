@@ -11,7 +11,10 @@
 		}
 		else if ($0 ~ /\s?Open\ table\ as\ spreadsheet/)
 		{ 
-			print
+			var=$NF
+			# print$var
+			ORS=NR%var?",":"\n"
+			# print
 			# ORS=","
 			# if (NR!-1)print "\n\n- - - - - - - - -\n\n";next
 			# printf $0
