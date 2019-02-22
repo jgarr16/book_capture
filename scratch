@@ -11,9 +11,14 @@
 		}
 		else if ($0 ~ /\s?Open\ table\ as\ spreadsheet/)
 		{ 
-			var=$NF
-			# print$var
-			ORS=NR%var?",":"\n"
+			getline
+			/\s?Open\ table\ as\ spreadsheet/,0
+			#!NF
+			# $0 = nextline
+			# ORS=NR%2?",":RS
+			# NR>1{print NR, $0}
+			# BEGIN (ORS=NR%var?",":"\n")
+			# END /^$/
 			# TODO: I've got the ORS part working, now just need to tweek it and make it work for the correct number of lines 
 			# http://www.theunixschool.com/2012/05/awk-join-or-merge-lines-on-finding.html
 		}
